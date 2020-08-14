@@ -8,8 +8,12 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 public class Item {
-	 //��һ���޸�ID
-	//第三次修改ID
+
+
+	 //µÚÒ»´ÎÐÞ¸ÄID
+//第二次修改ID
+//第三次修改
+
 	private Integer id;
 	private String name;
 	private Integer number;
